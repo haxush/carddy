@@ -11,5 +11,13 @@
   },
   "devDependencies": {
     "typescript": "^5.9.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haxush/carddy.git"
+  },
+  "homepage": "https://github.com/haxush/carddy#readme",
+  "bugs": {
+    "url": "https://github.com/haxush/carddy/issues"
   }
 }
