@@ -14,3 +14,4 @@ usage.ts
 bun.lock
 bun.lockb
 dist
+.DS_Store
